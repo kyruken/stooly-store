@@ -29,7 +29,7 @@ ul {
     color: #fff;
 }
 
-/* Row Container 1-4 (1 of 4) */
+/* Row Container 1-4, Header Row */
 
 .row-1-4 {
     align-items: center;
@@ -73,4 +73,4 @@ ul {
     height: auto;
 }
 
-
+/* Row Container 2 of 4, Product Row */
