@@ -26,3 +26,48 @@ ul {
     text-decoration: none;
     color: #fff;
 }
+
+/* Row Container 1-4 (1 of 4) */
+
+.row-1-4 {
+    align-items: center;
+    background-color: #1F2937;
+    display: flex;
+    gap: 48px;  
+    justify-content: center;
+    padding-bottom: 76px;
+}
+
+.header-text {
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+/* Custom fonts and style for stooly-store */
+
+.header-text h1 {
+    font-size: 44px;
+    margin: 0;
+
+}
+
+.header-text h3 {
+    font-size: 22px;
+    margin: 0;
+}
+
+.header-text button {
+    align-self: flex-start;
+
+}
+
+/* ^ Custom fonts and style  ^ */
+
+
+.header-image {
+    width: 400px;
+    height: auto;
+}
+
