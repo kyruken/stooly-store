@@ -95,5 +95,6 @@ ul {
 
 .item-img {
     width: 200px;
+    border-radius: 30px;
     height: auto;
 }
