@@ -1,0 +1,28 @@
+/* Top to bottom order for styling the html document */
+
+/* Header */
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #1F2937;
+    
+}
+
+.stooly-logo {
+    height: auto;
+    width: 100px;
+}
+
+ul {
+    align-items: center;
+    display: flex;
+    gap: 16px;
+    list-style-type: none;
+    margin: 0 16px;
+    padding: 0;
+}
+
+.header a {
+    text-decoration: none;
+    color: #fff;
+}
