@@ -91,6 +91,7 @@ ul {
 .item-column-3-4,
 .item-column-4-4 {
     display: column;
+    text-align: center;
 }
 
 .item-img-1,
