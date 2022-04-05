@@ -186,3 +186,21 @@ ul {
 
 
 /* ^ Row Container 4 of 4, Sign Up Container ^ */
+
+
+/* Footer Copyright Stooly Tech */
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    padding: 25px 25px;
+    justify-content: center;
+}
+
+.footer small {
+    color: #fff;
+    font: 16px;
+}
+
+
+/* ^ Footer Copyright Stooly Tech ^ */
