@@ -145,3 +145,44 @@ ul {
     font-weight: 600;
     margin-left: 500px;
 }
+
+/* ^ Row Container 3 of 4, Quote Container ^ */
+
+
+/* Row Container 4 of 4, Sign Up Container */
+
+.row-4-4 {
+    display: flex;
+    justify-content: center;
+}
+
+.signup-box {
+    background-color: #3882f6;
+    border-radius: 5px;
+    display: flex;
+    gap: 40px;
+    margin: 80px 0;
+    padding: 40px 90px;
+}
+
+.signup-text {
+    color: #fff;
+}
+
+.signup-box button {
+    align-self: center;
+    background-color: #3882f6;
+    border-radius: 10px;
+    border: 2px solid #fff;
+    height: 40px;
+    width: 125px;
+ 
+}
+
+.signup-box a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+/* ^ Row Container 4 of 4, Sign Up Container ^ */
