@@ -124,3 +124,24 @@ ul {
 
 
 /* ^ Row Container 2 of 4, Product Row ^ */
+
+/* Row Container 3 of 4, Quote Container */
+
+.row-3-4 {
+    align-items: center;
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+    padding: 100px 0;
+}
+
+.row-3-4 quote {
+    font-size: 26px;
+    font-style: italic;
+}
+.quote-author {
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 500px;
+}
