@@ -14,19 +14,28 @@
 }
 
 ul {
-    align-items: center;
+    align-items: flex-start;
     display: flex;
-    gap: 16px;
+    /* gap: 16px; */
     list-style-type: none;
     margin-bottom: 0;
-    margin-left: 24px;
-    margin-top: 0;
+    margin-left: 200px;
+    margin-top: 25px;
     padding: 0;
 }
 
 .header a {
-    text-decoration: none;
     color: #fff;
+    margin: 5px 25px;
+    text-decoration: none;
+    
+
+}
+
+.header a:hover {
+    border-bottom: 2px solid rgb(93, 88, 88);
+    /* background-color: rgb(61, 56, 56); */
+
 }
 
 /* ^ Header ^  */
