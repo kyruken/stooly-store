@@ -14,7 +14,7 @@
     font-style: italic;
     font-size: 46px;
     padding: 40px 80px;
-    margin-left: 100px;
+    margin-left: 50px;
 }
 
 ul {
@@ -23,7 +23,7 @@ ul {
     /* gap: 16px; */
     list-style-type: none;
     margin-bottom: 0;
-    margin-left: 200px;
+    margin-left: 120px;
     margin-top: 25px;
     padding: 0;
 }
@@ -65,7 +65,7 @@ ul {
 /* Custom fonts and style for header-text */
 
 .header-text h1 {
-    font-size: 44px;
+    font-size: 48px;
     margin: 0;
 
 }
