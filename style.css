@@ -70,9 +70,9 @@ ul {
 
 }
 
-.header-text h3 {
+.header-text-below {
     font-size: 22px;
-    margin: 0;
+    color: #e5e7eb;
 }
 
 .header-text button {
