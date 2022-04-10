@@ -82,7 +82,10 @@ ul {
     border: 2px solid #fff;
     height: 40px;
     width: 125px;
+}
 
+.header-text button:hover {
+    background-color: #19407f;
 }
 
 .header-text a {
@@ -215,6 +218,10 @@ ul {
     height: 40px;
     width: 125px;
  
+}
+
+.signup-box button:hover {
+    background-color: #19407f;
 }
 
 .signup-box a {
