@@ -102,15 +102,19 @@ ul {
 
 /* Row Container 2 of 4, Product Row */
 
+ h2 {
+     font-size: 28px;
+ }
 .row-2-4 {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-bottom: 20px;
 }
 .product-row {
     display: flex;
-    gap: 50px;
-
+    gap: 20px;
+    font-size: 18px;
 }
 
 .item-column-1-4,
@@ -119,6 +123,16 @@ ul {
 .item-column-4-4 {
     display: column;
     text-align: center;
+    width: 260px;
+    
+}
+
+.item-text {
+    margin-top: 20px;
+}
+
+.text-item-4 {
+    margin-top: 30px;
 }
 
 .item-img-1,
