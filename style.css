@@ -169,11 +169,12 @@ ul {
     background-color: #e5e7eb;
     display: flex;
     flex-direction: column;
-    gap: 35px;
     padding: 100px 0;
 }
 
 .row-3-4 quote {
+    width: 800px;
+    line-height: 1.5;
     font-size: 26px;
     font-style: italic;
 }
